@@ -48,7 +48,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | [🗒️ MinimaList v2](https://github.com/euvitor/minimaList_v2) | To-do app with authentication, CRUD and themes | React · TypeScript · Supabase |
-| [📚 BookFinder](https://github.com/euvitor/bookfinder) | Book search and discovery via API | React · Tailwind · Supabase |
+| [📚 BookFinder](https://github.com/euvitor/bookfinder) | Book search and discovery via API | React · Tailwind · Google Books API |
 | [✅ ClassCheck](https://github.com/euvitor/classcheck) | Verification tool for classes | React · Tailwind · Supabase |
 | [🍎 MinimaList v1](https://github.com/euvitor/minimaList) | Initial version of the task manager | HTML · CSS · JavaScript |
 | [💰 MaisMoney](https://github.com/euvitor/maisMoney) | Personal finance tracker | HTML · CSS · JavaScript |
