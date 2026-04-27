@@ -20,7 +20,7 @@
 - 🎓 Pursuing a degree in **Systems Analysis and Development**
 - 🛠️ Building **[MinimaList v2](https://github.com/euvitor/minimaList_v2)** — a task manager app with React, TypeScript and Supabase
 - 🌱 Currently learning more about **software architecture, testing and DevOps**
-- 📍 Palmas, Tocantins — Brazil
+- 📍 Joinville, Santa Catarina — Brazil
 - 💼 Open to opportunities in web development
 
 ***
@@ -30,7 +30,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAF8?style=plastic&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white" />
@@ -48,6 +48,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | [🗒️ MinimaList v2](https://github.com/euvitor/minimaList_v2) | To-do app with authentication, CRUD and themes | React · TypeScript · Supabase |
+| [📚 okbo](https://github.com/euvitor/okbo) | Bookfinder and personal bookshelf app | React · TypeScript · Google Books API |
 | [📚 BookFinder](https://github.com/euvitor/bookfinder) | Book search and discovery via API | React · Tailwind · Google Books API |
 | [✅ ClassCheck](https://github.com/euvitor/classcheck) | Verification tool for classes | React · Tailwind · Supabase |
 | [🍎 MinimaList v1](https://github.com/euvitor/minimaList) | Initial version of the task manager | HTML · CSS · JavaScript |
@@ -58,12 +59,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=euvitor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euvitor&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=euvitor&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euvitor&layout=compact&theme=default&hide_border=true" />
 </p>
 
 ***
 
-<p align="center">
-  <i>"Clean code is not written by following rules. It is written with care." — Robert C. Martin</i>
-</p>
+_"Clean code is not written by following rules. It is written with care." — Robert C. Martin_
