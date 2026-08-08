@@ -52,7 +52,6 @@
 | [📚 BookFinder](https://github.com/euvitor/bookfinder) | Search and explore books via external API | React · JavaScript · Google Books API |
 | [🗒️ MinimaList v2](https://github.com/euvitor/minimaList_v2) | Task manager with auth, CRUD operations and dark/light themes | React · TypeScript · Supabase |
 | [✅ ClassCheck](https://github.com/euvitor/classcheck) | Student attendance tracker for academic classes | React · Tailwind · Supabase |
-| [💰 MaisMoney](https://github.com/euvitor/maisMoney) | Personal finance tracker with income/expense control | HTML · CSS · JavaScript |
 
 ***
 
